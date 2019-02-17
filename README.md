@@ -9,4 +9,4 @@ In order to see and test this project, you have to:
  * after saving the .env file, run in the terminal **php artisan migrate**
  * in order for the project to run, type in the terminal **php artisan serve** 
  
-In this project you can create multiple Projects page, and for each project you can create specific tasks which will be by default not completed, and after one of them is done, can be marked as completed and will be displayed as <strike>a striked text</strike> 
+In this project you can create multiple Projects page, and for each project you can create specific tasks which will be by default not completed, and after one of them is done, it can be marked as completed and it will be displayed as <strike>a striked text</strike> 
